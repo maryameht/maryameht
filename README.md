@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, ...**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Java, MySQL**
 
 - 📫 How to reach me **maryameht16@gmail.com**
 
